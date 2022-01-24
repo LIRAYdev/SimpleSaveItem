@@ -1,0 +1,12 @@
+name: SimpleSaveItem
+version: 1.0.0
+description: SimpleSaveItem
+main: liray.itemsaver.SimpleSaveItem
+
+commands:
+  save-item:
+    permission: save-item.use
+
+permissions:
+  save-item.use:
+    default: op

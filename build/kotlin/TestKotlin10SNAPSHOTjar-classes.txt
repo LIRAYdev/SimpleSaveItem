@@ -1,0 +1,1 @@
+C:\Projects\active\TestKotlin\build\classes\kotlin\main\liray\Main.class
