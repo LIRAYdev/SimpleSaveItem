@@ -38,7 +38,6 @@ tasks {
         archiveBaseName.set("SimpleSaveItem")
         archiveVersion.set("")
         archiveClassifier.set("")
-        destinationDirectory.set(file("C:\\Users\\david\\Desktop\\servers\\serverMegan\\plugins"))
         relocate("de.tr7zw", "liray.itemsaver.tr7zw")
     }
 }
